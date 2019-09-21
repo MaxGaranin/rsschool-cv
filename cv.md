@@ -1,6 +1,7 @@
 1. Maksim Garanin
 
-2. - Samara, 443076, Lenina street 1 - 14 
+2. Contacts
+   - Samara, 443076, Lenina street 1 - 14 
    - +79033013131
    - maxgaranin@gmail.com
 
@@ -8,45 +9,45 @@
    I would like to investigate deep C# things, like concurrency, performance, develop multilayer client-server applications.
 
 4. Skills
-  - Advanced: .NET, .NET Core, C#, WPF, Entity Framework, VBA, SQL
-  - Base: ASP.NET MVC, Javascript, Node.js, Angular, Vue.js
-  - Tools: Git, GitLab, TeamCity, Visual Studio, Reshaper, Rider
-  - Methodologies: OOP, SOLID, clean coding, refactoring, unit testing
+   - Advanced: .NET, .NET Core, C#, WPF, Entity Framework, VBA, SQL
+   - Base: ASP.NET MVC, Javascript, Node.js, Angular, Vue.js
+   - Tools: Git, GitLab, TeamCity, Visual Studio, Reshaper, Rider
+   - Methodologies: OOP, SOLID, clean coding, refactoring, unit testing
 
 5. Code examples
-  - [GitHub](https://github.com/MaxGaranin)
-  - ```C#
-    public class Program
-    {
-        public static void Main()
-        {
-            Console.WriteLine("Hello, world!");            
-        }
-    }
-    ```
+   - [GitHub](https://github.com/MaxGaranin)
+   - ```C#
+     public class Program
+     {
+         public static void Main()
+         {
+             Console.WriteLine("Hello, world!");            
+         }
+     }
+     ```
 6. Experience
-  - SamaraNIPIneft, 2013 - at present
+   - SamaraNIPIneft, 2013 - at present
     C#, WPF, MVVM, Entity Framework, LiteDb, NUnit, TeamCity, GitLab, Slack
-  - Provolzhsknefteprovod, 2011-2013.
+   - Provolzhsknefteprovod, 2011-2013.
     C#, Entity Framework, WinForms
-  - Giprovostokneft, 2008-2011.
+   - Giprovostokneft, 2008-2011.
     C#, Entity Framework, WinForms, DevExpress, GDI+, OpenGL, MS SQL Server, Subversion, NUnit, VBA
-  - Magenta Technology, 2007-2008.
+   - Magenta Technology, 2007-2008.
     Take part to develop projects for resource allocation and planning.
     Java Core, Java Swing, Hibernate, Magenta Internal Technologies, MySQL.
-  - Giprovostokneft, 2001-2007. 
+   - Giprovostokneft, 2001-2007. 
     Delevop program complex for preparing, analizing, processing data for geological modelling systems.
     Develop programs for process optimizations on geological reservoir modelling.
     C#, VB, VBA, MS Access.
-  - CSKB Progress, 2001. 
+   - CSKB Progress, 2001. 
     Develop programs for processing telemetric information. 
     C++, MS Access.
 
 7. Education
-  - Samara State Aerospace University, radioengineer, 1995-2001
-  - Magenta Technology, Java developer course, 2008
-  - Javascript.ru, Base Javascript development course, 2015
-  - OTUS, Frontend delevloper course (Node.js, Angular, React, Vue.js), 2018
+   - Samara State Aerospace University, radioengineer, 1995-2001
+   - Magenta Technology, Java developer course, 2008
+   - Javascript.ru, Base Javascript development course, 2015
+   - OTUS, Frontend delevloper course (Node.js, Angular, React, Vue.js), 2018
 
-8. English 
+8. English  
   Level A2, can read technical texts, can understand English speech, can explain some things in language.
